@@ -29,7 +29,6 @@ body {
   
   .menu-elements {
   
-  display: flex;
   flex-direction: column;
   background: #fff;
   text-align:  center;
@@ -75,8 +74,6 @@ body {
   
   .box-hero-image {
   box-sizing: content-box;
-  width: 1440px;
-  height: 600px;
   background: #2e2f42;
   }
   
