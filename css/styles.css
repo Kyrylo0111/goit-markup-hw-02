@@ -6,14 +6,6 @@ body {
   }
   
   
-  /* top-line-header */
-  
-  
-  .menu {
-  display: flex;
-  flex-direction: row;
-  }
-  
   .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -48,7 +40,7 @@ body {
       background: #fff;
       color: #434455 ;
     }
-    /* .menu-nav-index */
+    
     .menu-nav-index{
       font-weight: 500;
       font-size: 16px;
@@ -62,7 +54,7 @@ body {
     .menu-nav-index:focus{
       color: #404bbf;
     }
-   /* .menu-nav-index */
+  
    
   .contacts {
   font-weight: 400;
@@ -79,7 +71,7 @@ body {
     color: #404bbf;
   }
   
-  /* <!-- Section-1 --> */
+ 
   
   .box-hero-image {
   box-sizing: content-box;
@@ -118,13 +110,6 @@ body {
     background-color: #404bbf;
     }
   
-  /* <!-- Section-2 --> */
-  
-  .light-bg {
-    width: 1440px;
-    height: 732px; 
-  }
-  
   .advantages {
   background-color: #F4F4FD;
   }
@@ -146,7 +131,7 @@ body {
   color: #434455;
   }
   
-  /* <!-- Sektion-3 --> */
+  
   .section-sss {
     background-color: #F4F4FD;
   }
@@ -183,11 +168,11 @@ body {
   color: #434455;
   }
   
-  /* <!-- Sektion-4 --> */
+ 
   .our-portfolio {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
@@ -209,12 +194,10 @@ body {
   color: #434455;
   }
   
-  /* <!-- Footer --> */
+ 
   
   .footer {
   background: #2e2f42;
-  width: 1440px;
-  height: 312px;
   }
   
   .footer-text {
