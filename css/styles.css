@@ -31,7 +31,7 @@ body {
   
   flex-direction: column;
   background: #fff;
-  text-align:  center;
+  text-align: center;
   line-height: normal;
   }
   
@@ -73,7 +73,7 @@ body {
  
   
   .box-hero-image {
-  box-sizing: content-box;
+  
   background: #2e2f42;
   }
   
